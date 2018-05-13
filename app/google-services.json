@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "415699085681",
+    "firebase_url": "https://fir-authdb-84139.firebaseio.com",
+    "project_id": "fir-authdb-84139",
+    "storage_bucket": "fir-authdb-84139.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415699085681:android:53629e39bf9884ed",
+        "android_client_info": {
+          "package_name": "com.example.admin.dogcollar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415699085681-uv3oldckbn0063m7j9jebvgeig8vpqqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwubmB6HpFC6_8Agio1eAtOrWwSkwVkXM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
